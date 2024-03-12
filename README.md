@@ -25,6 +25,25 @@ najít si v prezentaci na stránkách přemětu
 ## Psát v pasivě
 Se udělalo, se vybralo
 
+**Studijní program:** IKZ
+
+**Obor**: biomedicínská informatika
+
+musí být 15 zdrojů
+
+citační manažery zotero - citavi
+
+citační stlyISO 690 [jenom číslo]
+závorky musí být hranaté []
+
+pokud cituju jednu větu tak před tečkou 
+pokud cituju odstavec nebo delší text tak za tečkou
+
+prezentace musí být uplně od začátku
+
+font tak 20
+
+
 
 
 
